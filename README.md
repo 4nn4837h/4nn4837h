@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @4nn4837h
+- 👋 Hi, I’m Annabeth, ALIAS Simondi Francesca
 - 👀 I’m interested in Robotics
 - 🌱 I’m currently learning ICT and Robotics in high school
 - 📫 How to reach me francesca.simondi@itiscuneo.eu
