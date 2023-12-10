@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Annabeth, ALIAS Simondi Francesca
 - 👀 I’m interested in Robotics and computer engineering
-- 🌱 I graduated in 2023: 92 out of 100 in ICT and Robotics course at ITIS "Mario Delpozzo" in Cuneo (Cn, Italy)
+- 🌱 I graduated in 2023: 92 out of 100 in ICT and Robotics course at ITIS "Mario Delpozzo" in Cuneo (CN, Italy)
 - 🌺 I'm currently studying Computer Engineering at PoliTo, in Turin (TO, Italy)
 - 📫 How to reach me francysimondi4@gmail.com
 
